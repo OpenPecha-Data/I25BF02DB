@@ -1,0 +1,26 @@
+id: I25BF02DB
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:45:20.249893'
+last_modified: '2022-05-31T06:45:20.249904'
+parser: null
+source_metadata:
+  title: Palyul Choktrul Series
+  language: en
+  description: 'Texts by and about the Nyingma lama Palyul Choktrul Jampal Gyepe Dorje
+    (dpal yul mchog sprul ''jam dpal dgyes pa''i rdo rje, 1894–1958/9), who was renowned
+    for his strict monastic discipline and statuesque appearance:'
+  volume:
+    fA1EA:
+      title: Advice for Orgyen Rigdzin
+      base_file: fA1EA.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
